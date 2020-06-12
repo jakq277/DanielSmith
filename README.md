@@ -1,2 +1,2 @@
 # DanielSmith
-my personal website
+https://jakq277.github.io/DanielSmith/
